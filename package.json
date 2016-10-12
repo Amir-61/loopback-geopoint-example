@@ -1,5 +1,5 @@
 {
-  "name": "geoPoint example app",
+  "name": "loopback-geopoint-example",
   "version": "1.0.0",
   "main": "server/server.js",
   "scripts": {
@@ -27,5 +27,5 @@
     "url": ""
   },
   "license": "UNLICENSED",
-  "description": "geo2"
+  "description": "loopback-geopoint-example"
 }
